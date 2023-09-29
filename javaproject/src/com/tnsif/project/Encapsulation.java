@@ -1,4 +1,4 @@
-package com.tnsif.prog;
+package com.tnsif.project;
 
 public class Encapsulation {
 	public int serialno;
@@ -6,6 +6,8 @@ public class Encapsulation {
 	public int age;
 	//member function
 	public void show() {
-System.out.println("serialno"+serialno+"\t"+"name"+name+"\t"+"age"+age);	
+System.out.println("serialno"+serialno+"\t"+"name"+name+"\t"+"age"+age);		
+	
 }
+
 }

@@ -1,7 +1,7 @@
 package com.tns.override;
 
 public class Rbi {
-	public float getRateofIntrest() {
+	public float getRateofInterest() {
 		return 8.9f;
 	}
 
